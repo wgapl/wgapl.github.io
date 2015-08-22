@@ -2,10 +2,12 @@
 layout: page
 title: "Wood Gesellschaft Applied Physics Laboratory"
 ---
+Hey there good looking!  
+|Title | Date|  
+|:------|:-----|  
 {% for post in site.posts offset: 0 limit: 50 %}
-<p><a href="{{ post.url }}">{{post.title}}</a></p>
+| <a href="{{ post.url }}">{{post.title}}</a>  |  {{post.date}} |  
 {% endfor %}
-
 :octopus:
 
 

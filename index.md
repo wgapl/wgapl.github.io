@@ -1,14 +1,21 @@
 ---
 layout: page
-title: "Wood Gesellschaft Applied Physics Laboratory"
+
 ---
-Hey there good looking!  
-|Title | Date|  
-|:------|:-----|  
-{% for post in site.posts offset: 0 limit: 50 %}
-| <a href="{{ post.url }}">{{post.title}}</a>  |  {{post.date}} |  
-{% endfor %}
-:octopus:
+<div class="home">
+
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        <br>
+        {{ post.excerpt }}
+      </li>
+    {% endfor %}
+  </ul>
+
+</div>
 
 
 

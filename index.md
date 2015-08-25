@@ -10,7 +10,7 @@ I am the principal research scientist at an applied physics laboratory which foc
 
 I have a background in physics, applied mathematics, and computational biochemistry. I had been a somewhat capable coder in BASIC, Maple, and Matlab for years before really coming into my own as a developer after discovering how much tackling science projects with Python makes me happy.  So I hacked my way through graduate school and started an applied physics laboratory after leaving my position as a research scientist at the University of Washington.
 
-Since founding my company I have stayed busy as a tutor and technical consultant while building and refining my skills as a scientist and engineer through online courses and small research projects.
+Since founding my company I have worked as a tutor and technical consultant while building and refining my skills as a scientist and engineer through online courses and small research projects.
 
 Welcome to my blog!  
 

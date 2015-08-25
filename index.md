@@ -2,6 +2,14 @@
 layout: page
 
 ---
+I am the principal research scientist at an applied physics laboratory which focuses on parallel processing software development for machine learning, image processing, and scientific computing.
+
+I have a background in Physics, Applied Mathematics, and Computational Biochemistry. I had been a capable coder in BASIC, Maple, and Matlab for years before really coming into my own as a developer after discovering how much tackling science projects with Python makes me happy.  So I hacked my way through graduate school and started an applied physics laboratory after leaving my position as a research scientist at the University of Washington.
+
+Since founding my company I have stayed busy as a tutor and technical consultant while building and refining my skills as a scientist and engineer through online courses and small research projects.
+
+Welcome to my blog!
+
 <div class="home">
 
   <ul class="posts">

@@ -2,29 +2,29 @@
 layout: page
 
 ---
+<center>![](img/wgapl_logo_very_small.png)  </center>
+</br>
 I am the principal research scientist at an applied physics laboratory which focuses on parallel processing software development for machine learning, image processing, and scientific computing.
 
-I have a background in Physics, Applied Mathematics, and Computational Biochemistry. I had been a capable coder in BASIC, Maple, and Matlab for years before really coming into my own as a developer after discovering how much tackling science projects with Python makes me happy.  So I hacked my way through graduate school and started an applied physics laboratory after leaving my position as a research scientist at the University of Washington.
+I have a background in physics, applied mathematics, and computational biochemistry. I had been a somewhat capable coder in BASIC, Maple, and Matlab for years before really coming into my own as a developer after discovering how much tackling science projects with Python makes me happy.  So I hacked my way through graduate school and started an applied physics laboratory after leaving my position as a research scientist at the University of Washington.
 
-Since founding my company I have stayed busy as a tutor and technical consultant while building and refining my skills as a scientist and engineer through online courses and small research projects.
+Since founding my company I have stayed busy as a tutor and technical consultant while building and refining my skills as a scientist and engineer through online courses and small research projects. ::
 
-Welcome to my blog!
+Welcome to my blog!  
 
+---
 <div class="home">
 
   <ul class="posts">
     {% for post in site.posts %}
       <li>
         <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        <br>
-        {{ post.excerpt }}
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">  {{ post.title }}</a>  {{ post.excerpt }}
       </li>
     {% endfor %}
   </ul>
 
 </div>
-
 
 
 <!-- ---

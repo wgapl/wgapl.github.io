@@ -139,7 +139,17 @@ a:visited { color: #205caa; }
   padding: 30px 0;
   background-color: #fff;
 }
+#canvas {
+  background-image: url('http://4photos.net/blog/wp-content/uploads/waterfall-wallpaper.jpg');
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
 
+media screen and (max-width: 865px) {
+  #canvas {
+    background-image: none;
+   }
+}
 
 /* Home styles */
 /* ----------------------------------------------------------*/

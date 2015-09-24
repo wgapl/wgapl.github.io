@@ -2,7 +2,7 @@
 layout: page
 
 ---
-<center> <img src="./img/wgapl_logo.png" width="25%" height="25%">  </center>
+<center> <img src="./img/wgapl_logo.png" width="15%" height="15%">  </center>
 </br>
 
 

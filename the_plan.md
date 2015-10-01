@@ -14,7 +14,7 @@ This page represents
 - Build a laboratory
 
 1. Grow vegetables in a vertical indoor garden
-2.
+
 3. Sell smoked chicken and falafel burgers along with BBQ chicken sausage links from some neat little food truck with a smoker/grill, a nice fryer, and all the things a food truck needs, like a snocone machine. I wasn't joking about that falafel truck. I want to sell Hindu, Halal, and Vegan food.
 4. Experfy course
 5. Design and print vinyl patterns for shirts and sell them online. There's less of a business for the printing than there is for awesome designs. People will buy ideas, especially ideas in the form of Heavy Fruit of the Loom T-Shirts. Just be creative and market, market, market! You'll sell T-Shirts for goodness sake. Give away $5000 in gift cards as a promotion, use social media to promote your products, and press your advantages in every way you can. It is going to be 7 May 2016 before I know it. Be ready. Have that portion of wgapl.com ready to launch.

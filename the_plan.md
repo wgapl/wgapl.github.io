@@ -6,9 +6,28 @@ description: ""
 {% include JB/setup %}
 This page represents
 
+
+
+
 - Write a few papers with the Motion Control Lab and get into a PhD program
 - Buy a rural plot of land
 - Build a laboratory
+
+1. Grow vegetables in a vertical indoor garden
+2.
+3. Sell smoked chicken and falafel burgers along with BBQ chicken sausage links from some neat little food truck with a smoker/grill, a nice fryer, and all the things a food truck needs, like a snocone machine. I wasn't joking about that falafel truck. I want to sell Hindu, Halal, and Vegan food.
+4. Experfy course
+5. Design and print vinyl patterns for shirts and sell them online. There's less of a business for the printing than there is for awesome designs. People will buy ideas, especially ideas in the form of Heavy Fruit of the Loom T-Shirts. Just be creative and market, market, market! You'll sell T-Shirts for goodness sake. Give away $5000 in gift cards as a promotion, use social media to promote your products, and press your advantages in every way you can. It is going to be 7 May 2016 before I know it. Be ready. Have that portion of wgapl.com ready to launch.
+6. Buy a piece of land with the proceeds from the above businesses for a much larger scale vertical farm as well as a home. Put the land in Andrea's name.
+7. Build a fab shop and start hammering out robots.
+
+I know I said I wasn't going to go all out with the list, and I didn't. I simply outlined my thoughts on making money between where I am right now, with a garage full of almost all the tools I need to build vertical planters but with only room for a hundred or so in the best place for them.
+
+Since my problem seems to be having enough space that can be devoted entirely to plants, it would probably make sense if I would build some sort of piece of furniture one could place against the wall to hold their vertical planters. I'll work out the details and put them up here.
+
+My email address won't be working for the next 60 days as I am transfering services to Google domains. Take a picture with some elephant you slaughtered Mr. CEO. I won't mind. HA! As if. What a jerk. Anyway, I'm taking my business elsewhere. The 60 day waiting period will be worth it. I can figure out how to get all of the things done that I need to do to host the site with my own code, if not my own infrastructure. Then later I can talk with my ISP and Domain provider about hosting using my own infrastructure with the ability to go back to using infrastructure as a service whenever necessary.
+
+
 - Study basic biogerontology by automated high-throughput experimentation
 - Find effective therapies to fight the symptoms of aging  
 - Build and program robots

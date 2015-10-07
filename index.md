@@ -6,13 +6,9 @@ layout: page
 </br>
 
 
-My name is Thomas Wood and I am the principal research scientist at an applied physics laboratory which focuses on parallel processing software development for machine learning, image processing, and scientific computing.
+My name is Thomas Wood and I am the principal research scientist at an applied physics laboratory which does research in artificial intelligence and robotics.
 
-I have a background in physics, applied mathematics, and computational biochemistry. I had been a somewhat capable coder in basic, maple, and matlab for years before really coming into my own as a developer after discovering how much tackling science projects with python makes me happy.  So I hacked my way through graduate school and started a company after leaving my position as a research scientist at the university of washington.
 
-Since founding my company I have worked as a tutor and technical consultant while building and refining my skills as a scientist and engineer through online courses and small research projects.
-
-Welcome to my blog!  
 <center>
 <img src="./img/me.jpg" width="15%" height="15%">
 </center>

@@ -159,6 +159,37 @@ aside a.button {
   font-size: 21px;
 }
 
+a.logo {
+  width: 202px;
+  height: 173px;
+  line-height: 1.2;
+  font-size: 23px;
+  color: #fff;
+  /*padding-left: 200px;
+  padding-top: 200px;*/
+  font-family: 'Michroma', 'Helvetica Neue', Helvetica, Arial, serif;
+}
+a.logo small {
+  display: block;
+  font-size: 11px;
+}
+
+header a.logo {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  background: transparent url(../images/wgapl_logo_200.png) 0 0 no-repeat;
+}
+
+/*aside a.logo {
+  width: 138px;
+  padding-left: 64px;
+  display: block;
+  background: transparent url(../images/wgapl_logo.png) 0 0 no-repeat;
+  margin-bottom: 20px;
+  font-size: 21px;
+}*/
+
 code, pre {
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
   color: #222;

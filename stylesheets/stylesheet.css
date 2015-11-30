@@ -57,10 +57,10 @@ body {
 }
 
 a {
-  color: #2879d0;
+  color: #2f2736;
 }
 a:hover {
-  color: #2268b2;
+  color: #78ab46;
 }
 
 header {
@@ -211,7 +211,7 @@ pre {
   border: solid 1px #f2f2f2;
 }
 pre code {
-  color: #2879d0;
+  color: #2f2736;
   background-color: #fff;
   border: none;
   padding: 0;
@@ -261,7 +261,7 @@ form {
   font-family: 'Michroma', 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 2.8em;
   letter-spacing: -1px;
-  color: #474747;
+  color: #2f2736;
 }
 
 #main-content h1:before {
@@ -276,7 +276,7 @@ form {
   font-size: 22px;
   font-weight: bold;
   margin-bottom: 8px;
-  color: #474747;
+  color: #2f2736;
 }
 #main-content h2:before {
   content: "//";
@@ -291,7 +291,8 @@ form {
   font-weight: bold;
   margin-top: 24px;
   margin-bottom: 8px;
-  color: #474747;
+  /*color: #;*/
+  color: #2f2736;
 }
 
 #main-content h3:before {
@@ -305,7 +306,7 @@ form {
   font-family: 'Michroma', 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 15px;
   font-weight: bold;
-  color: #474747;
+  color: #2f2736;
 }
 
 h4:before {
@@ -318,7 +319,7 @@ h4:before {
 #main-content h5 {
   font-family: 'Michroma', 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 14px;
-  color: #474747;
+  color: #2f2736;
 }
 h5:before {
   content: "/////";
@@ -330,7 +331,7 @@ h5:before {
 #main-content h6 {
   font-family: 'Michroma', 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: .8em;
-  color: #474747;
+  color: #2f2736;
 }
 h6:before {
   content: "//////";
@@ -469,7 +470,7 @@ footer a:hover {
     font-size: 13px;
     line-height: 1;
     background-color: #ffffff;
-    color: #2879d0;
+    color: #2f2736;
     -moz-border-radius: 5px;
     -webkit-border-radius: 5px;
     border-radius: 5px;

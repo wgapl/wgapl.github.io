@@ -147,7 +147,7 @@ a.button small {
 header a.button {
   position: absolute;
   right: 0;
-  top: 0;
+  bottom: 0;
   background: transparent url(../images/github-button.png) 0 0 no-repeat;
 }
 aside a.button {
@@ -177,7 +177,7 @@ a.logo small {
 header a.logo {
   position: absolute;
   right: 0;
-  bottom: 0;
+  top: 0;
   background: transparent url(../images/wgapl_logo_200.png) 0 0 no-repeat;
 }
 

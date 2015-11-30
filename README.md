@@ -1,5 +1,4 @@
-###wgapl.github.io
+<center><img src="./images/wgapl_logo.png" width=50></center>
 
-Organization page for Wood Gesellschaft Applied Physics Laboratory.
-
-Many thanks to https://github.com/oaqu for their source code!
+#Wood Gesellschaft Applied Physics Laboratory
+Many thanks to https://github.com/oaqa for their source code!
